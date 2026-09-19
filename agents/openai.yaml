@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历重写 · SODA"
+  short_description: "基于目标岗位拆解要求、映射真实经历，优化中英文简历与跨行业能力表达"
+  default_prompt: "请使用 $resume-rewriter-soda，根据我的简历和目标岗位 JD，在不改变事实的前提下改写简历，并列出需要补充的关键信息。"
